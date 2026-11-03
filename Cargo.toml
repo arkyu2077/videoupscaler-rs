@@ -1,0 +1,16 @@
+[package]
+name = "videoupscaler"
+version = "0.1.0"
+edition = "2021"
+description = "Official Rust SDK for VideoUpscaler (https://videoupscaler.co) — AI video upscaling to 1080p, 2K, and 4K"
+homepage = "https://videoupscaler.co"
+documentation = "https://videoupscaler.co/docs/workflows"
+repository = "https://github.com/arkyu2077/videoupscaler-rs"
+license = "MIT"
+readme = "README.md"
+keywords = ["video-upscaler", "ai-video", "4k-upscaling", "super-resolution", "sdk"]
+categories = ["multimedia::video", "api-bindings", "web-programming::http-client"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"

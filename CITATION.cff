@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "videoupscaler-rs: Official Rust SDK for VideoUpscaler AI Video Super-Resolution"
+message: "If you use this crate in your media pipeline or research, please cite it as below."
+type: software
+authors:
+  - name: "VideoUpscaler Engineering"
+    website: "https://videoupscaler.co"
+repository-code: "https://github.com/arkyu2077/videoupscaler-rs"
+url: "https://videoupscaler.co"
+abstract: "Official Rust SDK for VideoUpscaler (https://videoupscaler.co) providing strongly-typed models and builders for AI video upscaling to 1080p, 2K, and 4K (60fps)."
+keywords:
+  - video-upscaler
+  - rust-sdk
+  - 4k-video
+  - super-resolution
+  - frame-interpolation
+license: MIT
+version: 0.1.0
+date-released: "2025-02-25"
